@@ -17,7 +17,7 @@ Data Cleaning & Preprocessing
 
 EDA & Visualization
 
-📁 Data Source:IBM HR Analytics Employee Attrition & Performance(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
+📁 Data Source: IBM HR Analytics Employee Attrition & Performance(https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
 Process overview:
 
@@ -42,7 +42,7 @@ Understanding Requirements-
  - How Does Overtime Impact Attrition?
  - Is Marital Status Linked to Attrition?
  
-📌Result-
+📌Results-
 
 1) The company has total 1470 employees, out of    which 1233 employees (83.88%) are still    working with the company (active) while    237employees (16.12%) are those who resigned    the company or terminated by the HR .The    overall Attrition rate is 16.12%
 
@@ -65,9 +65,6 @@ Understanding Requirements-
 
 ⚠️ Limitations 
 -  No date fields (like joining/resignation dates) are    available, so this is a static cross-sectional analysis.
-
-You can find my project here:
-GitHub - 
 
 
 👤 Author
